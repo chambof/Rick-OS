@@ -13,6 +13,9 @@ The images are stored in a list of structures in *picture.c* containing the imag
 
 To produce such data you can use the *export to c format* option of GIMP.
 
+## Example
+You can find the bootable iso *image.iso* under the *build* directory.
+
 ## Disclaimer
 The sleep function is just horrible.
 
